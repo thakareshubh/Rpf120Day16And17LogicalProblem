@@ -1,0 +1,16 @@
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\AnagramDetection\AnagramDetection\bin\Debug\net5.0\AnagramDetection.exe
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\AnagramDetection\AnagramDetection\bin\Debug\net5.0\AnagramDetection.deps.json
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\AnagramDetection\AnagramDetection\bin\Debug\net5.0\AnagramDetection.runtimeconfig.json
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\AnagramDetection\AnagramDetection\bin\Debug\net5.0\AnagramDetection.runtimeconfig.dev.json
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\AnagramDetection\AnagramDetection\bin\Debug\net5.0\AnagramDetection.dll
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\AnagramDetection\AnagramDetection\bin\Debug\net5.0\AnagramDetection.pdb
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\AnagramDetection\AnagramDetection\obj\Debug\net5.0\AnagramDetection.csproj.AssemblyReference.cache
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\AnagramDetection\AnagramDetection\obj\Debug\net5.0\AnagramDetection.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\AnagramDetection\AnagramDetection\obj\Debug\net5.0\AnagramDetection.AssemblyInfoInputs.cache
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\AnagramDetection\AnagramDetection\obj\Debug\net5.0\AnagramDetection.AssemblyInfo.cs
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\AnagramDetection\AnagramDetection\obj\Debug\net5.0\AnagramDetection.csproj.CoreCompileInputs.cache
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\AnagramDetection\AnagramDetection\obj\Debug\net5.0\AnagramDetection.dll
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\AnagramDetection\AnagramDetection\obj\Debug\net5.0\refint\AnagramDetection.dll
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\AnagramDetection\AnagramDetection\obj\Debug\net5.0\AnagramDetection.pdb
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\AnagramDetection\AnagramDetection\obj\Debug\net5.0\AnagramDetection.genruntimeconfig.cache
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\AnagramDetection\AnagramDetection\obj\Debug\net5.0\ref\AnagramDetection.dll

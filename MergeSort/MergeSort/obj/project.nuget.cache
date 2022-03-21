@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uOpBr0Xq8u8HS1Ghuy904dUMz83lzkImoZP5mMUm2TggejmvqluV1S51j3D+sN0TbFDYq1kuphMryC5KTvPGRA==",
+  "success": true,
+  "projectFilePath": "E:\\.net\\Rpf120Day16And17AlgorithmAndDsPrograming\\MergeSort\\MergeSort\\MergeSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

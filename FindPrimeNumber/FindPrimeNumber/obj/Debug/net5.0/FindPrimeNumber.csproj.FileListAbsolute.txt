@@ -1,0 +1,16 @@
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\FindPrimeNumber\FindPrimeNumber\bin\Debug\net5.0\FindPrimeNumber.exe
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\FindPrimeNumber\FindPrimeNumber\bin\Debug\net5.0\FindPrimeNumber.deps.json
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\FindPrimeNumber\FindPrimeNumber\bin\Debug\net5.0\FindPrimeNumber.runtimeconfig.json
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\FindPrimeNumber\FindPrimeNumber\bin\Debug\net5.0\FindPrimeNumber.runtimeconfig.dev.json
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\FindPrimeNumber\FindPrimeNumber\bin\Debug\net5.0\FindPrimeNumber.dll
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\FindPrimeNumber\FindPrimeNumber\bin\Debug\net5.0\FindPrimeNumber.pdb
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\FindPrimeNumber\FindPrimeNumber\obj\Debug\net5.0\FindPrimeNumber.csproj.AssemblyReference.cache
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\FindPrimeNumber\FindPrimeNumber\obj\Debug\net5.0\FindPrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\FindPrimeNumber\FindPrimeNumber\obj\Debug\net5.0\FindPrimeNumber.AssemblyInfoInputs.cache
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\FindPrimeNumber\FindPrimeNumber\obj\Debug\net5.0\FindPrimeNumber.AssemblyInfo.cs
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\FindPrimeNumber\FindPrimeNumber\obj\Debug\net5.0\FindPrimeNumber.csproj.CoreCompileInputs.cache
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\FindPrimeNumber\FindPrimeNumber\obj\Debug\net5.0\FindPrimeNumber.dll
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\FindPrimeNumber\FindPrimeNumber\obj\Debug\net5.0\refint\FindPrimeNumber.dll
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\FindPrimeNumber\FindPrimeNumber\obj\Debug\net5.0\FindPrimeNumber.pdb
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\FindPrimeNumber\FindPrimeNumber\obj\Debug\net5.0\FindPrimeNumber.genruntimeconfig.cache
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\FindPrimeNumber\FindPrimeNumber\obj\Debug\net5.0\ref\FindPrimeNumber.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eQ4fvj8JDSHhmWRQBZMK/JeylvkY/UKDab7W7O2wgSGZS9h+NRbU+JJeUDNZ4vcqW8LQMjmYNIFzxRQQQ+4CEQ==",
+  "success": true,
+  "projectFilePath": "E:\\.net\\Rpf120Day16And17AlgorithmAndDsPrograming\\BubbleSort\\BubbleSort\\BubbleSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

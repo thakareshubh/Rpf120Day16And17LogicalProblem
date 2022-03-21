@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "otF/ImsOAaEv5foNJ07lFdml1F6mQ2biwM6poBQc/aX5uzbRvOxObszkr6sLmvh6EhjdjeqxeyUzrlCh5WL4pg==",
+  "success": true,
+  "projectFilePath": "E:\\.net\\Rpf120Day16And17AlgorithmAndDsPrograming\\ReturnPermutationOfString\\ReturnPermutationOfString\\ReturnPermutationOfString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

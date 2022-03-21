@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WXCecXw34UtTKixWsOALUEUO9d3y0+7XBVTzXSLU7+cvfzeWb5Iqx4x28zxpyUHyZXFBmmz49sP2igT9cPTirg==",
+  "success": true,
+  "projectFilePath": "E:\\.net\\Rpf120Day16And17AlgorithmAndDsPrograming\\PrimePalindrom\\PrimePalindrom\\PrimePalindrom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

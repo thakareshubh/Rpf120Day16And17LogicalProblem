@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sI3YAWwQG4d81H16fk4vqNmCD48aeAOyH9hjlC+Wtm3LpI4B+wKPw48ZiA9r2nFPtMC0lEGF7ibOEAR9SmW8JA==",
+  "success": true,
+  "projectFilePath": "E:\\.net\\Rpf120Day16And17AlgorithmAndDsPrograming\\SortThelistByInsertionSort\\SortThelistByInsertionSort\\SortThelistByInsertionSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

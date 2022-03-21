@@ -1,0 +1,16 @@
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BinarySearchTheWord\BinarySearchTheWord\bin\Debug\net5.0\BinarySearchTheWord.exe
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BinarySearchTheWord\BinarySearchTheWord\bin\Debug\net5.0\BinarySearchTheWord.deps.json
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BinarySearchTheWord\BinarySearchTheWord\bin\Debug\net5.0\BinarySearchTheWord.runtimeconfig.json
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BinarySearchTheWord\BinarySearchTheWord\bin\Debug\net5.0\BinarySearchTheWord.runtimeconfig.dev.json
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BinarySearchTheWord\BinarySearchTheWord\bin\Debug\net5.0\BinarySearchTheWord.dll
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BinarySearchTheWord\BinarySearchTheWord\bin\Debug\net5.0\BinarySearchTheWord.pdb
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BinarySearchTheWord\BinarySearchTheWord\obj\Debug\net5.0\BinarySearchTheWord.csproj.AssemblyReference.cache
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BinarySearchTheWord\BinarySearchTheWord\obj\Debug\net5.0\BinarySearchTheWord.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BinarySearchTheWord\BinarySearchTheWord\obj\Debug\net5.0\BinarySearchTheWord.AssemblyInfoInputs.cache
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BinarySearchTheWord\BinarySearchTheWord\obj\Debug\net5.0\BinarySearchTheWord.AssemblyInfo.cs
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BinarySearchTheWord\BinarySearchTheWord\obj\Debug\net5.0\BinarySearchTheWord.csproj.CoreCompileInputs.cache
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BinarySearchTheWord\BinarySearchTheWord\obj\Debug\net5.0\BinarySearchTheWord.dll
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BinarySearchTheWord\BinarySearchTheWord\obj\Debug\net5.0\refint\BinarySearchTheWord.dll
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BinarySearchTheWord\BinarySearchTheWord\obj\Debug\net5.0\BinarySearchTheWord.pdb
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BinarySearchTheWord\BinarySearchTheWord\obj\Debug\net5.0\BinarySearchTheWord.genruntimeconfig.cache
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BinarySearchTheWord\BinarySearchTheWord\obj\Debug\net5.0\ref\BinarySearchTheWord.dll

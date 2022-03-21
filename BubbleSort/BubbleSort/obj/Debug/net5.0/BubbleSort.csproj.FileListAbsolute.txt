@@ -1,0 +1,16 @@
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BubbleSort\BubbleSort\bin\Debug\net5.0\BubbleSort.exe
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BubbleSort\BubbleSort\bin\Debug\net5.0\BubbleSort.deps.json
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BubbleSort\BubbleSort\bin\Debug\net5.0\BubbleSort.runtimeconfig.json
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BubbleSort\BubbleSort\bin\Debug\net5.0\BubbleSort.runtimeconfig.dev.json
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BubbleSort\BubbleSort\bin\Debug\net5.0\BubbleSort.dll
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BubbleSort\BubbleSort\bin\Debug\net5.0\BubbleSort.pdb
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BubbleSort\BubbleSort\obj\Debug\net5.0\BubbleSort.csproj.AssemblyReference.cache
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BubbleSort\BubbleSort\obj\Debug\net5.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BubbleSort\BubbleSort\obj\Debug\net5.0\BubbleSort.AssemblyInfoInputs.cache
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BubbleSort\BubbleSort\obj\Debug\net5.0\BubbleSort.AssemblyInfo.cs
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BubbleSort\BubbleSort\obj\Debug\net5.0\BubbleSort.csproj.CoreCompileInputs.cache
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BubbleSort\BubbleSort\obj\Debug\net5.0\BubbleSort.dll
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BubbleSort\BubbleSort\obj\Debug\net5.0\refint\BubbleSort.dll
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BubbleSort\BubbleSort\obj\Debug\net5.0\BubbleSort.pdb
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BubbleSort\BubbleSort\obj\Debug\net5.0\BubbleSort.genruntimeconfig.cache
+E:\.net\Rpf120Day16And17AlgorithmAndDsPrograming\BubbleSort\BubbleSort\obj\Debug\net5.0\ref\BubbleSort.dll
